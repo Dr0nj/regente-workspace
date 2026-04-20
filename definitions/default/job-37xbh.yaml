@@ -1,0 +1,8 @@
+id: job-37xbh
+label: job-37xbh
+team: default
+jobType: COMMAND
+schedule:
+    enabled: true
+retries: 2
+timeout: 300

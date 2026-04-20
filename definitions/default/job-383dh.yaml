@@ -1,0 +1,11 @@
+id: job-383dh
+label: asdasd
+team: default
+jobType: COMMAND
+schedule:
+    enabled: true
+retries: 2
+timeout: 300
+upstream:
+    - from: job-37xbh
+      condition: on-success

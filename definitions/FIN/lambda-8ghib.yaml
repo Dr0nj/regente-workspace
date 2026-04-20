@@ -1,0 +1,8 @@
+id: lambda-8ghib
+label: lambda-8ghib
+team: FIN
+jobType: LAMBDA
+schedule:
+    enabled: true
+retries: 2
+timeout: 300
