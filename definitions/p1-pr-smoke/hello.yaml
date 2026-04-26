@@ -1,0 +1,8 @@
+id: hello
+label: hello
+team: p1-pr-smoke
+jobType: COMMAND
+schedule:
+    enabled: false
+params:
+    command: echo hi
