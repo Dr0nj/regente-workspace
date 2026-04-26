@@ -1,0 +1,10 @@
+id: job1
+label: Smoke job
+team: smoke-165216-renamed
+jobType: HTTP
+schedule:
+    enabled: false
+    runAt: "09:00"
+params:
+    method: GET
+    url: https://example.com
