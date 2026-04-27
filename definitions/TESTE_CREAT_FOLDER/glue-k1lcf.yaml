@@ -1,0 +1,10 @@
+id: glue-k1lcf
+label: glue-k1lcf
+team: TESTE_CREAT_FOLDER
+jobType: GLUE
+schedule:
+    enabled: true
+retries: 2
+timeout: 300
+params:
+    jobName: JOBZINHO_TESTE
