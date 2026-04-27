@@ -1,0 +1,11 @@
+id: batch-jycwg
+label: batch-jycwg
+team: nova_folder
+jobType: BATCH
+schedule:
+    enabled: true
+retries: 2
+timeout: 300
+params:
+    jobDefinition: asd
+    jobQueue: das
